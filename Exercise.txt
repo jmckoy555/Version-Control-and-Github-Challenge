@@ -1,0 +1,11 @@
+Jordan McKoy Challenge Answers
+
+1. The terminal is a command prompt where you can type commands and control the receive output from the computer. 
+
+
+
+2.Git is installed on your computer and is a high quality version control system as opposed to Github which is a cloud-based hosting service.
+
+
+
+3.We use Github to collaborate with others in our field and to house certain projects that we would want to work on collectively.
